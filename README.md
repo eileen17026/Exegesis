@@ -1,2 +1,1 @@
-# 112-2 FJUCL Exegesis
-# week3 課堂練習
+# Week 3 課堂練習
